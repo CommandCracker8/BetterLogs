@@ -39,6 +39,7 @@ console = Logger.linkConsole(console)
 Note: This line of code only needs to go in your main file, because the console object syncs between files.
 <br />
 And then it's as simple as doing what you done before, just with the default console instead!
+
 ```javascript
 // To do a general log
 console.log("This is a normal log!")
@@ -52,6 +53,8 @@ console.warn("This is a warning.")
 // To send an error
 console.error("This is an error, you should check this out!")
 ```
+
+Also, to get any of the original console functions, just do, for example, `console.default.log`!
 
 ### Support & Feature Requests
 This package is looking for feedback and ideas to help cover more use cases. If you have any ideas feel free to share them within the "suggestions" channel in the [Commandcracker8's Development](https://discord.gg/BynpBR4NAe) Discord server. You can also use the [Issues Page](https://github.com/CommandCracker8/LogsPlus/issues) of the [Github](https://github.com/) repo for this package.
