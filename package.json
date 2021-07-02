@@ -1,0 +1,29 @@
+{
+  "name": "betterlogs",
+  "version": "1.0.0",
+  "description": "An NPM package to improve logging.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -esModuleInterop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CommandCracker8/BetterLogs.git"
+  },
+  "keywords": [
+    "logs",
+    "better",
+    "commandcracker8"
+  ],
+  "author": "Commandcracker8",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CommandCracker8/BetterLogs/issues"
+  },
+  "homepage": "https://github.com/CommandCracker8/BetterLogs#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^15.14.0"
+  }
+}
