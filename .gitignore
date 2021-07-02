@@ -3,4 +3,4 @@ fp.bat
 node_modules/
 tests/
 
-src/
+# src/
