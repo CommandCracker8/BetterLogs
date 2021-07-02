@@ -1,16 +1,19 @@
-# BetterLogs
+# LogsPlus
 A module to help you log better in your Javascript and TypeScript projects.
+
+### Installing the module
+ Run `npm install logsplus` in your chosen command prompt.
 
 ### Importing the module
 
 To import the module in Javascript:
 ```javascript
-const Logger = require('betterlogs')
+const Logger = require('logsplus')
 ```
 
 And in TypeScript:
 ```typescript
-import Logger from 'betterlogs'
+import Logger from 'logsplus'
 ```
 ### Using the module
 ```javascript

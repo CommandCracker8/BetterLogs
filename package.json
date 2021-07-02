@@ -1,5 +1,5 @@
 {
-  "name": "betterlogs",
+  "name": "logsplus",
   "version": "1.0.0",
   "description": "An NPM package to improve logging.",
   "main": "dist/index.js",
