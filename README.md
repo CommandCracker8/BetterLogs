@@ -17,7 +17,7 @@ import Logger from 'logsplus'
 ```
 ### Using the module
 ```javascript
-// To do a general log
+// To send a general log
 Logger.log("This is a normal log!")
 
 // To send an info log
